@@ -31,7 +31,7 @@ gem 'jquery-rails'
 # gem 'jbuilder'
 
 # Use unicorn as the app server
-# gem 'unicorn'
+gem 'unicorn'
 
 # Deploy with Capistrano
 # gem 'capistrano'
@@ -41,3 +41,4 @@ gem 'jquery-rails'
 gem 'spree'
 gem 'spree_usa_epay'
 gem 'spree_skrill'
+gem 'spree_heroku'
